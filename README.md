@@ -6,7 +6,7 @@
 
 - :man_student:  Я закончил в мае 2024 года годичное онлайн обучение в  :classical_building:  АНО ДПО "Компьютерная АКАДЕМИЯ ТОП" (международная сеть академий IT-образования) по программе  :computer:  "Разработка Web-приложений на Python". ([Диплом](https://github.com/bashlykov2005/bashlykov2005/blob/main/Башлыков%20Александр%20Владимирович.pdf))
 - :office_worker: На данный момент я работаю на freelance и планирую устроится в IT-компанию
-- :mailbox: Как со мной связаться: [!:e-mail:(mailto:bashlykov2005@mail.ru)]
+- :mailbox: Как со мной связаться: [!:e-mail:](mailto:bashlykov2005@mail.ru)
 - [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
