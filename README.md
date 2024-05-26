@@ -1,4 +1,4 @@
- ![banner1](https://github.com/bashlykov2005/bashlykov2005/assets/127608153/e4875908-ebd7-44b1-92c3-5e94159bbf51)
+![banner](https://github.com/bashlykov2005/bashlykov2005/assets/127608153/d4957f53-5760-4aa4-857b-c7c7bc4db64a)
 
 ### ,Здравствуйте я начинающий Web-разаработчик приложений на Python из Уфы. 
 
