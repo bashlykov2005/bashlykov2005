@@ -1,7 +1,8 @@
 ![banner](https://github.com/bashlykov2005/bashlykov2005/assets/127608153/d4957f53-5760-4aa4-857b-c7c7bc4db64a)
 ---
 
-### :man_technologist:  Обо мне:
+### ![Man Technologist Light Skin Tone](https://github.com/bashlykov2005/bashlykov2005/assets/127608153/18049372-8d31-4167-b7de-3d5d6daadd75) Обо мне:
+
 ### Здравствуйте я начинающий Web-разаработчик приложений на Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Уфы. 
 
 - :man_student:  Я закончил в мае 2024 года годичное онлайн обучение в  :classical_building:  АНО ДПО "Компьютерная АКАДЕМИЯ ТОП" (международная сеть академий IT-образования) по программе  :computer:  "Разработка Web-приложений на Python". ([Диплом](https://github.com/bashlykov2005/bashlykov2005/blob/main/Башлыков%20Александр%20Владимирович.pdf))
