@@ -1,7 +1,7 @@
 ![banner](https://github.com/bashlykov2005/bashlykov2005/assets/127608153/d4957f53-5760-4aa4-857b-c7c7bc4db64a)
 ---
 
-### ![Man Technologist Light Skin Tone](https://github.com/bashlykov2005/bashlykov2005/assets/127608153/18049372-8d31-4167-b7de-3d5d6daadd75) Обо мне:
+### :man_technologist: Обо мне:
 
 ### Здравствуйте я начинающий Web-разаработчик приложений на Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Уфы. 
 
