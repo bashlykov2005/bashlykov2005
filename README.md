@@ -15,7 +15,7 @@
 
 ---
 
-### Наиболее используемые языки :
+### :computer: Наиболее используемые языки :
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bashlykov2005&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
